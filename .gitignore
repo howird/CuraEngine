@@ -50,6 +50,7 @@ nbproject/*
 *.depend
 .*.swp
 .vs
+.vscode/
 .cproject
 .project
 .settings
